@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "hello",
+      "day": "finished",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "InaHaza",
+      "day": "Following",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
